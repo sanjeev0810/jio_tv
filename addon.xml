@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="jio_tv" name="Jio TV" version="7.1.5">
+  <info>Jio TV addon for Kodi</info>
+  <description>Watch Jio TV channels on Kodi</description>
+  <disclaimer>Disclaimer text</disclaimer>
+  <license>License text</license>
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jio TV addon for Kodi</summary>
+    <description lang="en">Watch Jio TV channels on Kodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>
