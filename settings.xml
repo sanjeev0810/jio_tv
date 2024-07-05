@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <category label="30001">
+    <setting id="mobile_number" type="text" label="30002" default=""/>
+    <setting id="otp" type="text" label="30003" default=""/>
+  </category>
+</settings>
